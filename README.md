@@ -6,7 +6,8 @@ Detecting abnormal consumption in smart meter time series using statistical, rul
 
 
 ## Data
-SGCC electricity theft dataset (link). Not included in this repo.
+SGCC electricity theft dataset from kaggle
+https://www.kaggle.com/datasets/bensalem14/sgcc-dataset
 
 ## Approach
 1. Exploratory analysis and cleaning
